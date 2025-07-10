@@ -92,13 +92,13 @@
 
 <br>
 
-<h2 align="center"> 📊 Github Status </h2>
+<!--<h2 align="center"> 📊 Github Status </h2>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hsjsstn&show_icons=true&theme=radical" alt="Soojin's GitHub stats" />
 </div>
-<br>
+<br> -->
 <!-- Top Languages -->
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hsjsstn&layout=compact" />
-</div>
+</div> -->
