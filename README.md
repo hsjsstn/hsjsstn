@@ -1,11 +1,11 @@
 <!-- 헤더 -->
-<div align="center">
+<!-- <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=speech&color=auto&height=150&section=header&text=Soojin's%20Github&fontSize=70" />
 </div>
 
 <div align="center">
     <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+Soojin's+Github" />
-</div>
+</div> -->
 
 <br>
 
