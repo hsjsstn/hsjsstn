@@ -58,7 +58,7 @@
 <br>
 
 <!-- Database -->
-<h3 align="center">🗄Database</h3>
+<!-- <h3 align="center">🗄Database</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" />&nbsp
@@ -66,6 +66,7 @@
 </div>
 
 <br>
+-->
 
 <!-- OS -->
 <h3 align="center">Operating System</h3>
