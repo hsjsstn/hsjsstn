@@ -14,9 +14,9 @@
   <a href="https://velog.io/@hsjsstn">
     <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />&nbsp
   </a>
-  <a href="mailto:sjhan034@naver.com">
+  <a href="mailto:hstsstn@gmail.com">
     <img
-      src="https://img.shields.io/badge/sjhan034@naver.com-2DB400?style=for-the-badge&logo=naver&logoColor=white"/>&nbsp
+      src="https://img.shields.io/badge/hstsstn@gmail.com-d14836?style=for-the-badge&logo=Gmail&logoColor=white"/>&nbsp
   </a>
   <a href="">
     <img
