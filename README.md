@@ -18,10 +18,10 @@
     <img
       src="https://img.shields.io/badge/hstsstn@gmail.com-d14836?style=for-the-badge&logo=Gmail&logoColor=white"/>&nbsp
   </a>
-  <a href="">
+  <!--<a href="">
     <img
       src="https://img.shields.io/badge/sooziin-7289da?style=for-the-badge&logo=discord&logoColor=white"/>&nbsp
-  </a>
+  </a>-->
 </div>
 
 <br>
